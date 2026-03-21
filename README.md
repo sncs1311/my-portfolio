@@ -22,4 +22,4 @@ If a developer builds a portfolio and doesn't put it on GitHub, does the CSS eve
 ## 📫 Reach Out
 * **Email**: [mesuryeah@gmail.com](mailto:mesuryeah@gmail.com)
 * **LinkedIn**: [Surya Narayan C Shenoy](https://www.linkedin.com/in/surya-shenoy-473092300/)
-* **Link to Portfolio**: [Portfolio](my-portfolio-chi-umber-85.vercel.app)
+* **Link to Portfolio**: [Portfolio](https://my-portfolio-chi-umber-85.vercel.app)
